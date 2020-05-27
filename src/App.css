@@ -50,6 +50,22 @@
 .resume_background{
   background: cyan;
 }
+
+.social-links-res {
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+  margin: auto;
+}
+
+
+.social-links-res i {
+  color:#0077b6;
+  font-size: 5em;
+  padding: 5px;
+}
+
+
 /* contact page css */
 
 
@@ -132,6 +148,9 @@
   font-size: 5em;
   padding: 8px;
 }
+
+
+
 
 
 /* about me page css */
