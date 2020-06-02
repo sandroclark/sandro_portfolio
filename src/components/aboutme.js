@@ -17,7 +17,7 @@ class About extends Component {
 
             <div className="about-banner-text">
               <h1>About me</h1>
-              <h5>A communicative developer with a Passion for Learning</h5>
+              <h5>A Bilingual communicative developer with a Passion for Learning</h5>
 
               <hr />
 

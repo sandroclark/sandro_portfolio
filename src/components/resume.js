@@ -21,6 +21,7 @@ class Resume extends Component {
           <Cell className="resume-md-col" col={6}>
           <h2 style={{paddingTop: '2em'}}>James Clark</h2>
             <h4 style={{color: 'white'}}>Data Scientist/ Developer</h4>
+            <h5 style={{ color: 'white' }}>Fluent in Spanish</h5>
             <div className="social-links">
               {/* LinkedIn */}
               <a href="https://www.linkedin.com/in/jamessandroclark/" rel="noopener noreferrer" target="_blank">
@@ -30,6 +31,7 @@ class Resume extends Component {
 
             <h5>Email</h5>
             <p>sandro93@ucla.edu</p>
+
             <hr style={{borderTop: '3px solid #833fb2'}} />
 
             <h2>Education</h2>
