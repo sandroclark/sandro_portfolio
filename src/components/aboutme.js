@@ -21,7 +21,7 @@ class About extends Component {
 
               <hr />
 
-              <p>My education in Humanities has given me a unique perspective in regards to technology. While my curiosity and work ethic has pushed me to experiment with a wide variety of technologies from front end development to AI.</p>
+              <p>My education in Humanities has given me a unique perspective in regards to technology. My curiosity and work ethic has pushed me to experiment with a wide variety of technologies from front end development to AI.</p>
 
               <div className="social-links">
 
