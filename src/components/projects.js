@@ -168,7 +168,7 @@ class Projects extends Component {
           <Tab>Data Science</Tab>
           <Tab>NLP</Tab>
           <Tab>AI</Tab>
-          <Tab>We Development</Tab>
+          <Tab>Web Development</Tab>
         </Tabs>
 
 
